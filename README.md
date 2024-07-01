@@ -1,3 +1,5 @@
+## Expense Tracker
+
 Download PHP from https://windows.php.net/download#php-8.2
 
 Download Sqlite3 from https://www.sqlite.org/download.html
